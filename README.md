@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="www.linkedin.com/in/danielosorioq">Programmer</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="www.linkedin.com/in/danielosorioq">QA Engineer, Software Testing</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
