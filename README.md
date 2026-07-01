@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Daniel Osorio
 
-💻 Systems Analyst | QA Engineer | Software Testing Enthusiast
+💻 Systems Analyst | QA Engineer | Software Testing
 
 I’m passionate about software quality, test automation, and continuous improvement. With a background in IT infrastructure and application support, I have developed strong analytical and problem-solving skills focused on delivering reliable digital products.
 
