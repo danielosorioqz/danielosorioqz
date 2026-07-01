@@ -1,4 +1,12 @@
-## Hi there 👋
+## Daniel Osorio 👋
+
+<div id="header" align="center">
+  <img decoding="async" src="Banner Linkedln.png" width="800"/>
+</div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=danielosorioqz" alt="profile views"/>
+</p>
 
 <!--
 **danielosorioqz/danielosorioqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
