@@ -2,6 +2,8 @@
 
 I’m passionate about software quality, test automation, and continuous improvement. With a background in IT infrastructure and application support, I have developed strong analytical and problem-solving skills focused on delivering reliable digital products.
 
+🔍 My expertise includes manual and automated testing, API validation, SQL data analysis, and defect management.
+
 <h2>👨‍💻 Software QA Projects:</h2>
 
 - <b>Automated test suite for validating product kit creation workflows in Urban Grocers, focusing on form field validation and API behavior.</b>
@@ -10,8 +12,6 @@ I’m passionate about software quality, test automation, and continuous improve
   - [urban-routes-ride-request-tests](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Quality assurance project focused on manual testing, API validation, test case design, checklist creation, and bug reporting for Urban Grocers application workflows.</b>
   - [urban-grocers-manual-api-testing](https://github.com/danielosorioqz/api_stand_tests/tree/master)
-
-🔍 My expertise includes manual and automated testing, API validation, SQL data analysis, and defect management.
 
 ### Tech Stack
 
