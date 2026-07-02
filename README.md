@@ -35,7 +35,6 @@ I’m passionate about software quality, test automation, and continuous improve
 
 📫 Open to collaboration and QA opportunities.
 
-### Let's Connect :handshake: you can find me at [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danielosorioq/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daniel.osorioqz@gmail.com)](mailto:daniel.osorioqz@gmail.com)
 
 
 <p align="left">
