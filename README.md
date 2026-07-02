@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="www.linkedin.com/in/danielosorioq">QA Engineer, Software Testing</a></h1>
+<h1>Hi, I'm Daniel! <br/><a href="https://github.com/danielosorioqz">QA Engineer</a>, <a href="https://www.linkedin.com/in/danielosorioq/">Software Tester</a></h1>
 
 I’m passionate about software quality, test automation, and continuous improvement. With a background in IT infrastructure and application support, I have developed strong analytical and problem-solving skills focused on delivering reliable digital products.
 
