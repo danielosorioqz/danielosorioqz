@@ -1,23 +1,11 @@
 <h1>Hi, I'm Daniel! <br/><a href="www.linkedin.com/in/danielosorioq">QA Engineer, Software Testing</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software QA Projects:</h2>
 
 - <b>Automated test suite for validating product kit creation workflows in Urban Grocers, focusing on form field validation and API behavior.</b>
   - [urban-grocers-kit-creation-tests](https://github.com/danielosorioqz/qa-project-Urban-Grocers-app-es)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+- <b>Automated end-to-end test suite for Urban Routes ride request workflows using Selenium, Pytest, and the Page Object Model (POM) design pattern</b>
+  - [urban-routes-ride-request-tests](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 I’m passionate about software quality, test automation, and continuous improvement. With a background in IT infrastructure and application support, I have developed strong analytical and problem-solving skills focused on delivering reliable digital products.
 
