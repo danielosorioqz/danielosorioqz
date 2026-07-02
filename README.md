@@ -9,7 +9,7 @@ I’m passionate about software quality, test automation, and continuous improve
 - <b>Automated test suite for validating product kit creation workflows in Urban Grocers, focusing on form field validation and API behavior.</b>
   - [urban-grocers-kit-creation-tests](https://github.com/danielosorioqz/qa-project-Urban-Grocers-app-es)
 - <b>Automated end-to-end test suite for Urban Routes ride request workflows using Selenium, Pytest, and the Page Object Model (POM) design pattern</b>
-  - [urban-routes-ride-request-tests](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [urban-routes-ride-request-tests](https://github.com/danielosorioqz/qa-project-Urban-Routes-es)
 - <b>Quality assurance project focused on manual testing, API validation, test case design, checklist creation, and bug reporting for Urban Grocers application workflows.</b>
   - [urban-grocers-manual-api-testing](https://github.com/danielosorioqz/api_stand_tests/tree/master)
 
